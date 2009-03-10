@@ -5,7 +5,7 @@
   <artifactId>${artifactId}</artifactId>
   <packaging>war</packaging>
   <version>${version}</version>
-  <name>${artifactId} Maven J2EE14 Webapp</name>
+  <name>${artifactId} J2EE 1.4 Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
 
